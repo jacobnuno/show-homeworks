@@ -32,6 +32,11 @@ h1 {
     display: block;
 }
 
+.active .number {
+  color: #285382;
+  font-size: 1.2em;
+}
+
 #prev {
   position: absolute;
   top: 50%;
